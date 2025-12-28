@@ -6,3 +6,11 @@ authors = ["soft-duck"]
 license = "MIT"
 
 [dependencies]
+color-eyre = "0.6.5"
+ratatui = "0.30.0"
+regex-lite = "0.1.8"
+serde = "1.0.228"
+sha2 = "0.10.9"
+tempfile = "3.24.0"
+toml = "0.9.10"
+ureq = "3.1.4"
